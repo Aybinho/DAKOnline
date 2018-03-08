@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Neige et soleil</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="css/css.css">
+<style>
+body { 
+    background: lightblue url("img/aaa.jpg") no-repeat fixed center; 
+}
+</style>
+</head>
+<body bgcolor="grey">
+	<h1 align="center">
+	<font color="blue">
+	<font size="7">
+		Neige et soleil
+	</font>
+	</font>
+	</h1>
+	<center>
+	<img src="img/photo1.jpg" width="300">
+	<p align="center">
+	<font size="3">
+
+<ul id="navigation">
+  <li><a href="http://www.observerbd.com/2014/12/01/1417448154.jpg" title="Location immobilière">Location immobilière</a></li>
+  <li><a href="#" title="Location de ski">Location de matériels de ski</a></li>
+  <li><a href="#" title="aller à la section 3">Location de matériels de randonnée</a></li>
+</ul>
+<b style="color:black"><br/>
+Neige et Soleil est une société de locations d’appartements en montagne durant les périodes de vacances hivernales et estivales.<br/>
+Elle propose une vaste gamme de propriétés dans un large domaine de la vallée de Queryas. Elle loue principalement à des particuliers.<br/>
+</b>
+</font>
+</p>
+</center>
+</html>
