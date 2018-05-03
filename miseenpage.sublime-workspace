@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"hea",
+				"head\tTag"
+			],
+			[
+				"strtoupp",
+				"mb_strtoupper"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"num",
+				"numSS"
+			],
+			[
+				"absenc",
+				"absence"
+			],
+			[
+				"nom",
+				"nomE"
+			],
+			[
+				"no",
+				"nomAT"
+			],
+			[
+				"nu",
+				"numSS"
+			],
+			[
+				"i",
+				"INSERT"
+			],
+			[
+				"ref",
+				"refSP"
+			],
+			[
+				"id",
+				"idD"
+			],
+			[
+				"re",
+				"refSP"
+			],
+			[
+				"B",
+				"Bou"
+			],
+			[
+				"M",
+				"Marseille"
+			],
+			[
+				"H",
+				"Hyp"
+			],
+			[
+				"f",
+				"FOREIGN"
+			],
+			[
+				"date",
+				"DATE"
+			],
+			[
+				"n",
+				"null"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n\t<head>\n\n\t\t<title>ACCEUIL</title>\n\t\t<meta charset=\"utf-8\">\n\t\t<link rel=\"stylesheet\" href=\"css/styles.css\"/>\n\n\t\n\t\t\t\t\n\t\t\t\t\n\t</head>\n\t<body>\t\n\t\t<header>\n\t\t<h1> Neige et Soleil</h1>\n\t\t</header> <!-- haut de page--> <!-- div sert à créer des boites plutot que des ensembles et de les nommer-->\n\t\t\t\n\t\t\n\t\n\t\t\t<nav>\n\t\t\t\t<ul>\n\t\t\t\t<li class=\"menu-accueil\"> <a href=\"acceuil.html\">Accueil</a></li>\n\t\t\t\t\t<li class=\"menu-immo\"> <a href=\"immo.html\">Location Immobiliere</a></li>\n\t\t\t\t\t<li class=\"menu-randonne\"> <a href=\"randonne.html\">Location de matériel de randonnées</a></li>\n\t\t\t\t\t<li class=\"menu-contact\"> <a href=\"contact.html\">Nous contacter</a></li>\n\t\t\t\t</ul>\n\t\t\t</nav>\n\t\t<div id= \"contenuprincipale\">\n\t\t\t<p>\n\n\n\t\t\tQui cum venisset ob haec festinatis itineribus Antiochiam, praestrictis palatii ianuis, contempto Caesare, quem videri decuerat, ad praetorium cum pompa sollemni perrexit morbosque diu causatus nec regiam introiit nec processit in publicum, sed abditus multa in eius moliebatur exitium addens quaedam relationibus supervacua, quas subinde dimittebat ad principem.\n\n\t\t\tEt licet quocumque oculos flexeris feminas adfatim multas spectare cirratas, quibus, si nupsissent, per aetatem ter iam nixus poterat suppetere liberorum, ad usque taedium pedibus pavimenta tergentes iactari volucriter gyris, dum exprimunt innumera simulacra, quae finxere fabulae theatrales.\n\n\t\t\tQuibus occurrere bene pertinax miles explicatis ordinibus parans hastisque feriens scuta qui habitus iram pugnantium concitat et dolorem proximos iam gestu terrebat sed eum in certamen alacriter consurgentem revocavere ductores rati intempestivum anceps subire certamen cum haut longe muri distarent, quorum tutela securitas poterat in solido locari cunctorum.\n\n\t\t\tHac ita persuasione reducti intra moenia bellatores obseratis undique portarum aditibus, propugnaculis insistebant et pinnis, congesta undique saxa telaque habentes in promptu, ut si quis se proripuisset interius, multitudine missilium sterneretur et lapidum.\n\n\t\t\tCiliciam vero, quae Cydno amni exultat, Tarsus nobilitat, urbs perspicabilis hanc condidisse Perseus memoratur, Iovis filius et Danaes, vel certe ex Aethiopia profectus Sandan quidam nomine vir opulentus et nobilis et Anazarbus auctoris vocabulum referens, et Mopsuestia vatis illius domicilium Mopsi, quem a conmilitio Argonautarum cum aureo vellere direpto redirent, errore abstractum delatumque ad Africae litus mors repentina consumpsit, et ex eo cespite punico tecti manes eius heroici dolorum varietati medentur plerumque sospitales.\n\n\t\t\tQuaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.\n\n\t\t\tNemo quaeso miretur, si post exsudatos labores itinerum longos congestosque adfatim commeatus fiducia vestri ductante barbaricos pagos adventans velut mutato repente consilio ad placidiora deverti.\n\n\t\t\tSed cautela nimia in peiores haeserat plagas, ut narrabimus postea, aemulis consarcinantibus insidias graves apud Constantium, cetera medium principem sed siquid auribus eius huius modi quivis infudisset ignotus, acerbum et inplacabilem et in hoc causarum titulo dissimilem sui.\n\n\t\t\tIllud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos iam consumendo inediae propinquantis aerumnas exitialis horrebant.\n\n\t\t\tPost emensos insuperabilis expeditionis eventus languentibus partium animis, quas periculorum varietas fregerat et laborum, nondum tubarum cessante clangore vel milite locato per stationes hibernas, fortunae saevientis procellae tempestates alias rebus infudere communibus per multa illa et dira facinora Caesaris Galli, qui ex squalore imo miseriarum in aetatis adultae primitiis ad principale culmen insperato saltu provectus ultra terminos potestatis delatae procurrens asperitate nimia cuncta foedabat. propinquitate enim regiae stirpis gentilitateque etiam tum Constantini nominis efferebatur in fastus, si plus valuisset, ausurus hostilia in auctorem suae felicitatis, ut videbatur.\n\n\t\t\tCe texte généré aléatoirement (lorem ipsum) peut être utilisé dans vos maquettes (webdesign, sites internet, livres, affiches...) gratuitement. Ce texte est entièrement libre de droit.\n\n\t\t\tSi vous aimez ce site, partagez-le : Tweeter\n\t\t\t</p>\n\n\t\t</div>\n\t\t<div id= \"contacter\"> <!-- correspond au bas de la page--> \n\t\t\t\n\t\t<div id=\"content\">\n\n\t\t<div class=\"leftbox\"> <!--pied de page-->\n\t\t\t<h3> Neige et soleil </h3>\n\t\t\t\t<ul>\n\t\t\t\t<li><a href=\"Qui sommes nous.html\">\n\t\t\t\t\tQui sommes nous ? </a></li>\n\t\t\t\t<li><a href=\"Zone de location\">\n\t\t\t\t\tZone de location </a></li>\n\t\t\t\t<li><a href=\"Nous contacter\">\n\t\t\t\t\tNous contacter \t</a></li>\n\t\t\t\t<li><a href=\"Condition générale de vente\">\n\t\t\t\tCondition générale de vente </a></li>\n\t\t\t\t<li><a href=\"Information légales\">\n\t\t\t\tInformation légales </a></li>\n\t\t\t</ul>\n\t\t</div>\n\t\t\n\t\t<div class=\"rightbox\">\n\t\t<h3> Horaires </h3>\n\t\t\t<ul>\n\n\t\t\t\t<li> \n\t\t\t\t\tDu Lundi au Samedi \n\t\t\t\t\t8h30-12h30 14h-18h30\n\t\t\t\t</li>\n\t\t\t</ul> \n\t\t</div>\n\t\t</div>\n\t</body>\n</html>\t",
+			"file": "index.html",
+			"file_size": 5436,
+			"file_write_time": 131680040585240324,
+			"settings":
+			{
+				"buffer_size": 5330,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 1679,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/youyo/Desktop/CodePPE/Nouscontacter.html",
+		"/C/Users/youyo/Desktop/CodePPE/css/styles.css",
+		"/C/Wamp64/wamp64/www/test4.php",
+		"/C/Wamp64/wamp64/www/traitement7.php",
+		"/C/Wamp64/wamp64/www/test7.php",
+		"/C/Wamp64/wamp64/www/Formulaire/insertion.sql",
+		"/C/Users/youyo/OneDrive/Documents/Recherche.html",
+		"/C/Wamp64/wamp64/www/Formulaire/traitement4.php",
+		"/C/Users/youyo/Desktop/CodePPE/index.html",
+		"/C/Users/youyo/OneDrive/Documents/test4.php",
+		"/C/Users/youyo/AppData/Local/Temp/test4-bd.php",
+		"/C/Wamp64/wamp64/www/test7-bd.php",
+		"/C/Wamp64/wamp64/www/Formulaire/test7.php",
+		"/C/Users/youyo/AppData/Local/Temp/traitement4.php",
+		"/C/Users/youyo/AppData/Local/Temp/preg-3.php",
+		"/C/Users/youyo/Desktop/CodePPE/Image/background.jpg",
+		"/C/Users/youyo/Desktop/page.html",
+		"/C/Users/youyo/Desktop/Nouveau dossier/Code HTML Neige et Soleil.html",
+		"/C/Users/youyo/Desktop/Nouveau dossier/Code CSS Neige et Soleil.css",
+		"/C/Users/youyo/Desktop/CodePPE/miseenpage.sublime-project",
+		"/C/Users/youyo/Desktop/CodePPE/miseenpage.CSS",
+		"/C/Users/youyo/Desktop/CodePPE/Locationimmobilier",
+		"/C/Users/youyo/Desktop/CodePPE/partieillustration.CSS",
+		"/C/Users/youyo/Desktop/CodePPE/page.html",
+		"/C/Users/youyo/Desktop/CodePPE/Css",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/youyo/Desktop/Code CSS Neige et Soleil.css",
+		"/C/Users/youyo/Desktop/Code HTML Neige et Soleil.html",
+		"/C/Users/youyo/Desktop/Code Neige et Soleil",
+		"/C/Wamp64/wamp64/www/Formulaire/form1.php",
+		"/C/Wamp64/wamp64/www/Formulaire/module1.php",
+		"/C/Wamp64/wamp64/www/Formulaire/Matrice.html",
+		"/C/Wamp64/wamp64/www/Formulaire/Basededonnée",
+		"/C/Users/youyo/AppData/Local/Temp/questionnaire.php",
+		"/C/Users/youyo/Downloads/Preg.php",
+		"/C/wamp64/categorie.sql",
+		"/C/Wamp64/absence.sql",
+		"/C/Wamp64/classe.sql",
+		"/C/Wamp64/festival.sql",
+		"/C/Wamp64/mygestionfact.sql",
+		"/C/Wamp64/mysqlgstionfact.sql",
+		"/C/Wamp64/facture.txt",
+		"/C/Wamp64/veto.sql",
+		"/C/Wamp64/EmployesTP08.txt",
+		"/C/Wamp64/wamp64/www/php5.php",
+		"/C/Wamp64/wamp64/www/ph6.php",
+		"/C/Wamp64/wamp64/www/ph2.php",
+		"/C/Wamp64/wamp64/www/ph7.php",
+		"/C/Users/youyo/Downloads/fonction(1).php",
+		"/C/Wamp64/wamp64/www/PHP.html",
+		"/C/Users/youyo/Desktop/assistant.txt",
+		"/C/Wamp64/transair.sql",
+		"/C/Users/youyo/Desktop/basesqlcours/transair.sql",
+		"/C/Wamp64/assistant.txt",
+		"/C/Users/youyo/Desktop/EmployesTP08.txt",
+		"/C/Wamp64/enquete.sql",
+		"/C/Wamp64/GESTIONCOM.SQL",
+		"/C/Wamp64/empdept.txt",
+		"/C/Users/youyo/Desktop/basesqlcours/empdept.txt",
+		"/C/Users/youyo/Desktop/basesqlcours/ORACLE_Emp_et_Dept.txt",
+		"/C/Wamp64/ecoling.sql",
+		"/D/wamp64/classe.sql",
+		"/C/Wamp64/ecole.sql",
+		"/C/Wamp64/SuperM.sql",
+		"/C/wamp64/ecole.sql",
+		"/C/wamp64/absence.sql",
+		"/C/wamp64/SuperM.sql",
+		"/C/wamp64/veto.sql",
+		"/C/wamp64/transair.sql",
+		"/C/wamp64/EmployesTP08.txt",
+		"/C/wamp64/ecoling.sql",
+		"/C/wamp64/enquete.sql",
+		"/C/wamp64/GESTIONCOM.SQL",
+		"/C/wamp64/mysqlgstionfact.sql",
+		"/C/wamp64/classe.sql",
+		"/C/wamp64/mygestionfact.sql",
+		"/C/wamp64/entreprise.sql",
+		"/C/Users/youyo/Desktop/Mesistes/Site internet Kevin Monnin SIO1B",
+		"/C/Users/youyo/Desktop/Mesistes/Sublime text page internet",
+		"/C/wamp64/festival.sql",
+		"/C/Users/youyo/AppData/Local/Temp/Partie1_-_RAPPELS_MODELE_DE_DONNEES_MERISE-2.doc",
+		"/C/Users/youyo/Desktop/exoanalyse1/exo4.DOC",
+		"/C/wamp64/lycee",
+		"/C/Users/youyo/OneDrive/Documents/ecole.sql"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+			"C:\\Users\\youyo\\Desktop\\CodePPE\\index"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 125.0
+	},
+	"pinned_build_system": "",
+	"project": "miseenpage.sublime-project",
+	"replace":
+	{
+		"height": 75.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
